@@ -1,6 +1,6 @@
 # Motion on a surface :8ball: :golf:
 Project for the oral examination of the course "Modelli matematici" [Matematical Models] (UniTS). Task: choose the problem you wish, arising from any field of application of mathematics, and manage to find a reasonable solution with the teoretical and numerical tools seen during the course (mainly mathematical modelling and numerical methods for the resolution of differential equations). I choose a problem arising from physics:
-- consider the graph of a (smooth) function f: R^2 -> R. This can be seen as a particular type of surface!
+- consider the graph of a (smooth) function IR<sup>2</sup> -> IR. This can be seen as a particular type of surface!
 - Consider a point on the surface. Suppose this point can move being forced to lie on the surface.
 - Choose a vector representing the initial speed of the point,
 - add gravity to the world,
