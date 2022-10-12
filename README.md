@@ -12,4 +12,4 @@ In order to solve the problem I modelled the situation applying physical princip
 The code consists of a script that can simulate the motion of the point on a generical surface of the type described above. In order to experiment the model you can just uncomment one of the example of combinations surface - starting values - lenght of the timeline - graphical settings, execute the code and insert the stepsize (for the mesh on the timeline). Raccomanded vaues are among 0.1 and 0.005. You can also customize the options listed above.
 
 #### Mathematics
-I you wold like to see my way to obtain the solution, you can look at the .pdf file, which was the presentation of the model for the oral examination. I hope you can find it interesting!
+If you wold like to see my way to obtain the solution, you can look at the .pdf file, which was the presentation of the model for the oral examination. I hope you can find it interesting!
